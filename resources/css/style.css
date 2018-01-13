@@ -1,0 +1,24 @@
+
+
+nav {
+	display: inline-block;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+}
+
+nav ul{
+	display: flex;
+	align-items: right;
+	padding: 0px 16px;
+	margin: 0px auto;
+}
+
+ul li {
+	margin: 0 16px;
+}
+.company {
+	display: inline-block;
+}
